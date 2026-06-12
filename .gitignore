@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# CZN 项目专用
+.env
+screenshots/
+*.png
+data/*.db
